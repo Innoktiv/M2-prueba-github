@@ -19,4 +19,4 @@ function showSlides() {
 // Tooltips
 $(function () {
     $('[data-toggle="tooltip"]').tooltip()
-  })
+})
